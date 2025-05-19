@@ -5,7 +5,7 @@ export default function getImagesByQuery(query) {
    return axios
         .get('', {
             params: {
-                key: '50295834-c918df4fa87d72bde5e1e5104',
+                key: '32683176-73c6d59407ba5f82078f92bf7',
                 q: query,
                 image_type: 'photo',
                 orientation: 'horizontal',
